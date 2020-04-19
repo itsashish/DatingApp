@@ -41,3 +41,12 @@ E:\Working Folder\POC\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\runtimes\w
 E:\Working Folder\POC\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
 E:\Working Folder\POC\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
 E:\Working Folder\POC\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Working Folder\POC\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Working Folder\POC\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+E:\Working Folder\POC\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+E:\Working Folder\POC\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Working Folder\POC\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Working Folder\POC\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+E:\Working Folder\POC\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Working Folder\POC\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+E:\Working Folder\POC\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\package-lock.json
