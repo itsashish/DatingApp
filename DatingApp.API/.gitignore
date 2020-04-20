@@ -2,3 +2,5 @@
 code
 bin
 *.db
+appsettings.json
+
